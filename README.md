@@ -1,1 +1,1 @@
-# ipt101-weather
+# weather-update-ipt101
